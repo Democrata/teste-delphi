@@ -3,7 +3,9 @@
 Construir uma aplicação Desktop para processamento de informações (semelhante a um Solver).
 
 Data base inicial: 01/01/2020.
+
 As informações de capacidade e limite são diárias.
+
 Dada a estrutura a seguir:
 
 ![Estrutura](estrutura.png)
